@@ -1,0 +1,22 @@
+{
+  "name": "github-actions-nodejs",
+  "version": "1.0.0",
+  "description": "Node.js sample app using Express to demostrate the use of GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasunkv/github-actions-nodejs.git"
+  },
+  "author": "Kasun Kodagoda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kasunkv/github-actions-nodejs/issues"
+  },
+  "homepage": "https://github.com/kasunkv/github-actions-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
